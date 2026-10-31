@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated research manuscript."
+title: "Provider Data Reliability Framework: Synthetic Benchmark"
+authors:
+  - family-names: Bhardwaj
+    given-names: Jagjot
+    orcid: "https://orcid.org/0009-0009-5414-5903"
+    affiliation: "Independent Researcher, MN, USA"
+    email: "bhardwajjagjot@ieee.org"
+type: software
